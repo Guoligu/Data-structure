@@ -1,1 +1,1 @@
-test
+A sample of data structure template.
